@@ -5,3 +5,4 @@ script3 changing ownership of file
 script4 creating an empty file
 script5 granting execute permission
 script6 x to owner and group owner and r to others
+script7 granting execute permit to everybody
