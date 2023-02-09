@@ -6,3 +6,4 @@ script4 creating an empty file
 script5 granting execute permission
 script6 x to owner and group owner and r to others
 script7 granting execute permit to everybody
+script8 james bond ---------7
