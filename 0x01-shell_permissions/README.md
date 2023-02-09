@@ -4,4 +4,4 @@ script2 listing all groups of current user
 script3 changing ownership of file
 script4 creating an empty file
 script5 granting execute permission
-
+script6 x to owner and group owner and r to others
