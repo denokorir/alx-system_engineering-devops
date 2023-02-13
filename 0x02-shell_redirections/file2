@@ -1,1 +1,1 @@
-more passwd
+ls -l | more passwd
