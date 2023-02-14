@@ -1,2 +1,2 @@
 #!/bin/bash
-finf . -typed ! -path . -print | wc -l
+find . -typed ! -path . -print | wc -l
