@@ -1,2 +1,2 @@
 #!/bin/bash
-tr c " "
+echo chicago | tr c " "
